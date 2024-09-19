@@ -1,0 +1,62 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    background-color: rgb(200, 22, 22);
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: #fff;
+    color: rgb(200, 22, 22);
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-vendas .nav-link.active:hover{
+    color: #fff;
+}
+
+.navbar-toggler{
+    background-color: rgb(230, 61, 61);
+}
+
+.carousel-item img{
+    width: 100%;
+    max-width: 1600px;
+    height: 650px;
+}
+
+.section-title{
+    font-family: "Chakra Petch", sans-serif
+}
+
+.text-colored{
+    color: rgb(200, 22, 22);
+}
+
+#sobre,
+#comprar{
+    background-color: rgb(243, 116, 116);
+}
+
+.nav-vendas .nav-link.active,
+#contatos button{
+    background-color: rgb(200, 22, 22);
+    color: #fff;
+}
+
+.nav-vendas .nav-link:hover{
+    color: rgb(200, 22, 22);
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a{
+    text-decoration: none;
+}
+
